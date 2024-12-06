@@ -1,0 +1,220 @@
+---
+title: "Impacto dos Gastos Públicos Federais"
+author: "JOAO VITOR DA SILVA SANTOS"
+date: "2024-12-06"
+output:
+   html_document: 
+    toc: true
+    toc_float: true
+---
+
+## Evolução da participação do Estado na Economia
+
+###  Revolução Industrial e o Liberalismo Econômico (Século XVIII - XIX)  
+**Características:** Ideias de Adam Smith e outros economistas liberais promovem mercados autorregulados, com mínima intervenção estatal.  
+**Consequências:**  
+- O Estado atua apenas em funções básicas, como segurança, infraestrutura, e aplicação da lei.  
+- Políticas de "laissez-faire" predominam, especialmente na Inglaterra.  
+<br>  
+
+### Crises e o Avanço do Socialismo (Século XIX)  
+**Características:** Crescimento das desigualdades e movimentos trabalhistas pressionam por maior intervenção estatal.  
+**Exemplos:**  
+- Primeiras legislações trabalhistas.  
+- Surgimento das ideias socialistas, propondo o controle estatal sobre os meios de produção.  
+<br>  
+
+### Primeira Guerra Mundial e o Fortalecimento do Estado (1914-1918)  
+**Características:** Durante a guerra, os governos assumem maior controle sobre as economias para financiar e sustentar o esforço militar.  
+**Exemplos:**  
+- Nacionalizações de indústrias estratégicas.  
+- Racionamento e controle de preços.  
+<br>  
+
+### A Grande Depressão e o Keynesianismo (1929-1940)  
+**Características:** A crise de 1929 mostrou os limites do liberalismo clássico, levando à aceitação de que o Estado deveria intervir na economia.  
+**Exemplo marcante:**  
+- O "New Deal" de Franklin D. Roosevelt nos Estados Unidos, com investimentos públicos em larga escala para reativar a economia.  
+**Contribuição teórica:**  
+- John Maynard Keynes, em *The General Theory of Employment, Interest and Money* (1936), propôs que o governo deveria regular a demanda agregada.  
+<br>  
+
+### Segunda Guerra Mundial e o Planejamento Estatal (1939-1945)  
+**Características:** O Estado consolida seu papel como organizador econômico.  
+**Exemplos:**  
+- Controle estatal de recursos para sustentar o esforço de guerra.  
+- Planejamento econômico de longo prazo em economias de guerra.  
+<br>  
+
+### Pós-Guerra e a Ascensão do Desenvolvimentismo (Década de 1940 - 1960)  
+**Características:** Especialmente em países da América Latina, Ásia e Europa devastada pela guerra, o governo assume papel central no desenvolvimento econômico.  
+**Marcos principais:**  
+- Teoria da industrialização por substituição de importações, defendida por economistas como Raúl Prebisch.  
+- Criação de instituições internacionais, como o FMI e o Banco Mundial, para apoiar o planejamento e a reconstrução econômica.  
+<br>
+
+## Revisão de Contabilidade Nacional
+<br>
+
+A contabilidade nacional trabalha com as identidades: Produto Nacional, Renda Nacional e Dispêndio Nacional.  
+\[ PN \equiv RN \equiv DN \]  
+<br>
+
+A produção agregada da economia pode ser representada por uma função de produção:  
+\[ PN = Y = f(K, L) \]  
+<br>
+As identidades Renda e Dispêndio representam a demanda agregada:  
+\[  DN = DA = C + I + G + NX \]  
+<br>
+
+\[  RN = DA = C + I + G + NX \]
+<br>
+
+Em equilíbrio, a oferta agregada é igual à demanda agregada:  
+\[ OA = DA \]  
+<br>
+Logo:  
+\[ Y = C + I + G + NX \]  
+<br>
+E:  
+\[ G = Y - C - I - NX \]  
+<br>
+
+![](https://files.passeidireto.com/04ba2b3c-43f6-4971-825a-4b4db45a56d5/04ba2b3c-43f6-4971-825a-4b4db45a56d5.jpeg)
+<br>
+
+
+### O Agente 
+
+O governo é um agente que **equilibra o fluxo de renda**, promovendo justiça social, estimulando a atividade econômica, regulando mercados e estabilizando a economia. Ele é essencial para evitar desequilíbrios e garantir o funcionamento sustentável da economia, especialmente em situações de crises ou desigualdades estruturais.
+
+<br>
+
+## Impacto dos gastos públicos pelo modelo IS - LM
+
+![](https://s.dicionariofinanceiro.com/imagens/curvaislm.jpg)
+
+
+## Impactos Positivos
+
+### Estímulo à Demanda Agregada
+- Gastos em infraestrutura, educação e saúde podem aumentar a demanda agregada, impulsionando a produção e o emprego.  
+<br>
+- Em momentos de recessão, esses gastos ajudam a reativar a economia, funcionando como uma ferramenta de estímulo fiscal.  
+<br>
+
+
+<br>
+
+
+ Função Renda  
+\[
+Y = C + S
+\]  
+<br>  
+
+ Função Consumo  
+\[
+C = Y - S
+\]  
+<br>  
+
+ Considerando a poupança como \( S = 0 \), e dividindo todos os termos por \( \Delta Y \), temos:  
+\[
+\frac{\Delta C}{\Delta Y} + \frac{\Delta Y}{\Delta Y}
+\]  
+<br>  
+
+Então:  
+\[
+\frac{\Delta C}{\Delta Y} = 1
+\]  
+<br>  
+
+Temos a **propensão marginal a consumir**. Em termos percentuais, um aumento marginal na renda de 1% eleva o nível de consumo dos indivíduos:  
+\[
+\frac{\Delta \% C}{\Delta \% Y}
+\]  
+
+
+
+### Investimentos em Infraestrutura
+- Melhorias em transporte, energia e comunicações aumentam a eficiência produtiva e a competitividade do setor privado.  
+<br>
+
+### Redução de Desigualdades
+- Gastos sociais, como transferências de renda e programas de combate à pobreza, ajudam a reduzir desigualdades e melhorar o bem-estar da população.  
+<br>
+
+### Estabilização Econômica
+- O governo pode utilizar os gastos para mitigar flutuações econômicas, suavizando períodos de recessão ou boom.  
+<br>
+
+>
+Apesar de fazer um discurso otimista sobre a situação econômica do Brasil em meio à crise financeira global, o presidente brasileiro disse à população que "não tenha medo de consumir com responsabilidade".
+
+>
+"Se você está com dívidas, procure antes equilibrar seu orçamento. Mas se tem um dinheirinho no bolso ou recebeu o décimo terceiro, e está querendo comprar uma geladeira, um fogão ou trocar de carro, não frustre seu sonho, com medo do futuro", afirmou Lula.
+
+>
+E o presidente acrescentou: "Se você não comprar, o comércio não vende. E se a loja não vender, não fará novas ecomendas à fábrica. E aí a fábrica produzirá menos e, a médio prazo, o seu emprego poderá estar em risco."
+
+>
+Lula encorajou ainda os empresários a continuarem investindo, e recomendou que o setor financeiro estimule o crédito e baixe os juros, que ele ainda considera "muito altos".
+>
+Para o presidente, "nossa maior defesa hoje é a força do mercado interno".
+
+<br>
+
+
+
+<br>
+
+
+## Efeito Bolsa Família
+
+Um estudo do Banco Mundial, intitulado *"Cash Transfers and Formal Labour Markets – Evidence from Brazil"*, desmente a ideia de que o Bolsa Família desestimula o trabalho. A pesquisa aponta que o programa, além de combater a pobreza e a desigualdade, tem efeitos positivos na economia local e no mercado de trabalho formal, especialmente após sua expansão em 2009.
+
+<br>
+
+### Principais Pontos:
+- **Efeito multiplicador:** Cada dólar investido gera **2,16 dólares** na economia local.
+- **Impacto no mercado de trabalho:** A expansão do programa resultou em aumento do consumo, mais empregos formais (principalmente no setor privado, com remuneração de até dois salários mínimos) e maior arrecadação tributária.
+- **Inclusão no mercado de trabalho:** A maioria dos novos empregos foi ocupada por pessoas que **nunca foram beneficiárias do programa**.
+- **Consumo formal:** Dois terços do consumo adicional ocorreram em **estabelecimentos formais**.
+
+<br>
+
+### Conclusão:
+O estudo conclui que programas de transferência de renda, como o Bolsa Família, não apenas reduzem a pobreza, mas também impulsionam economias locais e mercados de trabalho formais.
+
+<br>
+
+
+
+## Impactos Negativos
+
+### Aumento do Déficit Público
+- Se os gastos excederem a arrecadação por longos períodos, podem gerar um déficit público elevado, aumentando a dívida pública e os custos com juros.  
+<br>
+
+![Um aumento expressivo de 285,79%](https://th.bing.com/th/id/OIP.q-j5MjW5hDkG7lRrvgOezwAAAA?rs=1&pid=ImgDetMain)
+
+### Inflação
+- Gastos excessivos em uma economia já aquecida podem gerar pressão inflacionária, reduzindo o poder de compra.  
+<br>
+
+### Efeito Crowding-Out
+- O financiamento de gastos por meio de emissão de títulos pode elevar as taxas de juros, desestimulando o investimento privado.  
+<br>
+
+![Detentores da dívida pública ](https://static.poder360.com.br/2024/06/divida-publica-tesouro-detentores-2024-02-1536x1536.png)
+
+### Ineficiência e Corrupção
+- Mal uso de recursos públicos, seja por projetos ineficazes ou práticas ilícitas, pode reduzir o retorno econômico e social dos gastos.  
+<br>
+
+### Dependência de Programas Sociais
+- Políticas mal planejadas podem criar dependência em relação a programas de assistência, reduzindo incentivos para o trabalho e a produtividade.  
+<br>
+
